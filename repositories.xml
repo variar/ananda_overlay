@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<repositories encoding="UTF-8" version="1.1">
+  <repo priority="50" quality="experimental">
+    <name>Ananda</name>
+    <description>Ananda overlay</description>
+    <homepage>https://github.com/variar/ananda_overlay</homepage>
+    <owner>
+      <email>anton.filimonov@gmail.com</email>
+      <name>Anton Filimonov</name>
+    </owner>
+    <source type="git">https://github.com/variar/ananda_overlay.git</source>
+  </repo>
+</repositories>
